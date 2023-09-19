@@ -1,0 +1,21 @@
+.css-j5r0tf{
+    padding: 1rem;
+    border-radius : 0.5rem;
+    background-color: bisque;
+    #aquamarine;
+}
+
+.diagnosis{
+    color: white;
+    padding: 0.2em 0.5em;
+    border-radius: 0.5em;
+    font-size: 1.5em;
+}
+
+.diagnosis.parkinsons{
+    background-color: red;
+}
+
+.diagnosis.healthy{
+    background-color: yellowgreen;
+}
